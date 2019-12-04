@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+AYDataBaser library - is an abstraction for database interaction. You can use it with any databases.
                        DESC
 
   s.homepage         = 'https://github.com/bananaRanger/AYDataBaser.git'
