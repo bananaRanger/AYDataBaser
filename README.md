@@ -11,7 +11,7 @@
 
 ## About
 
-AYDataBaser - is a abstract heigh layer for database interaction.
+AYDataBaser library - is an abstraction for database interaction. You can use it with any databases.
 
 ## Installation
 
