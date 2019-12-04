@@ -1,0 +1,16 @@
+PODS:
+  - AYDataBaser (0.1.0)
+
+DEPENDENCIES:
+  - AYDataBaser (from `../`)
+
+EXTERNAL SOURCES:
+  AYDataBaser:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AYDataBaser: 633a22b7be919197cd31005fd56806ca7b6e8fa5
+
+PODFILE CHECKSUM: 615f2bbabf948f392f8e323daedd639946698fdc
+
+COCOAPODS: 1.8.3

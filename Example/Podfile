@@ -1,0 +1,6 @@
+use_frameworks!
+target 'AYDataBaser_Tests' do
+  pod 'AYDataBaser', :path => '../'
+  
+  
+end

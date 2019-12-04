@@ -1,0 +1,6 @@
+framework module Pods_AYDataBaser_Tests {
+  umbrella header "Pods-AYDataBaser_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
